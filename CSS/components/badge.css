@@ -1,0 +1,23 @@
+.badge{
+    background-color: tomato;
+    display:flex;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 600;
+}
+.dot{
+    display:flex;
+    height: 5px;
+    width:5px;
+    border-radius: 50%;
+    background-color: tomato;
+}
+.dot-find-cog{
+    position: absolute;
+    right: 20px;
+    top:50px;
+}
